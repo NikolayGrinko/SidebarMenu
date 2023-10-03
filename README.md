@@ -6,4 +6,6 @@ If anyone needs it, use it with pleasure.
 
 <img width="270" alt="1" src="https://github.com/NikolayGrinko/SidebarMenu/assets/112849355/470ef969-8e7d-416d-abad-e7f90a626704">
 
-<img width="270" alt="2" src="https://github.com/NikolayGrinko/SidebarMenu/assets/112849355/73a49300-3a73-40d3-b654-86ef922d880b">
+
+
+<img width="270" alt="22" src="https://github.com/NikolayGrinko/SidebarMenu/assets/112849355/fc4647d0-56ae-4888-8d25-ab134b9353c2">
